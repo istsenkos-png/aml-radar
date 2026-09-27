@@ -1,0 +1,13 @@
+{
+  "name": "AML Radar — Pro",
+  "short_name": "AML Radar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "description": "AML, sanctions, crypto compliance and financial crime intelligence radar.",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
